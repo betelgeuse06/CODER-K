@@ -11,7 +11,9 @@ h1{
   color: black;
   text-decoration: underline;
 }
-ol li{
+ol {
+  list-style: none;
   padding: 15px;
+  padding-left: 30px;
   margin: 15px;
 }
